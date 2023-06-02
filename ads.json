@@ -121,6 +121,36 @@
 				        "1965"
 				    ],
 				    "question": "When did China test their first atomic device?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "a type of asset that is in cash in the current account of the commercial bank",
+				        "a type of asset that is in the form of a deposit in the current account of the commercial bank",
+				        "either of these",
+				        "None of the above"
+				    ],
+				    "question": "A liquid asset is"
+				},
+				{
+				    "correct": 1,
+				    "content": [
+				        "largest airport",
+				        "highest airport",
+				        "lowest airport",
+				        "busiest airport"
+				    ],
+				    "question": "Lhasa airport at Tibet is the World's"
+				},
+				{
+				    "correct": 2,
+				    "content" : [
+				        "Ethiopia",
+				        "Nigeria",
+				        "Zambia",
+				        "Chad"
+				    ],
+				    "question": "Which of these African countries is situated south of the equator?"
 				}
 		    ]
 		}
