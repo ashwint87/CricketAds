@@ -1,5 +1,5 @@
 {
-  sportmonks: 'v2.0'
-  gnews: 'v4'
-  cricketdata: 'v1'
+  "sportmonks": "v2.0",
+  "gnews": "v4",
+  "cricketdata": "v1"
 }
